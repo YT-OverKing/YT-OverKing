@@ -1,7 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://www.instagram.com/miko.lz/)
 <h1 align="center">Hi 👋, I'm Passakorn Mankong</h1>
 <h3 align="center">Business Computer ปวช.2/2</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.aniblogtracker.com/live/20210818/1629299595.19648.45376.gif")
+<(img align="right" alt="Coding" width="400" src="https://cdn.aniblogtracker.com/live/20210818/1629299595.19648.45376.gif")>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yt-overking&label=Profile%20views&color=0e75b6&style=flat" alt="yt-overking" /> </p>
 

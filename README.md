@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm BlXXDVlone</h1>
 <h3 align="center">ปวช.2/2</h3>
-<img align="right" alt="Coding" src="https://media.discordapp.net/attachments/1048907974728486953/1053399119659548672/Banner.gif">
+<img align="center" alt="Coding" src="https://media.discordapp.net/attachments/1048907974728486953/1053399119659548672/Banner.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yt-overking&label=Profile%20views&color=0e75b6&style=flat" alt="yt-overking" /> </p>
 
